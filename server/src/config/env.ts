@@ -1,1 +1,0 @@
-// lê .env, valida tipos e exporta objeto env (porta, DB URL, etc.).
