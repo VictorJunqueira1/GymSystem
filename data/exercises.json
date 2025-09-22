@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1a2b3c4d-5e6f-7g8h-9i10-11j12k13l14m",
+    "name": "Supino Reto",
+    "type": "Peito",
+    "min_repetitions": 8,
+    "description": "Exercício clássico para desenvolvimento do peitoral maior"
+  },
+  {
+    "id": "2b3c4d5e-6f7g-8h9i-10j1-1k12l13m14n",
+    "name": "Agachamento Livre",
+    "type": "Pernas",
+    "min_repetitions": 10,
+    "description": "Exercício composto para desenvolvimento dos músculos das pernas"
+  },
+  {
+    "id": "3c4d5e6f-7g8h-9i10-j1k1-2l13m14n15o",
+    "name": "Puxada na Frente",
+    "type": "Costas",
+    "min_repetitions": 10,
+    "description": "Exercício para desenvolvimento do latíssimo do dorso"
+  },
+  {
+    "id": "4d5e6f7g-8h9i-10j1-k1l1-2m14n15o16p",
+    "name": "Rosca Direta",
+    "type": "Bíceps",
+    "min_repetitions": 12,
+    "description": "Exercício isolado para bíceps com barra"
+  },
+  {
+    "id": "5e6f7g8h-9i10-j1k1-l1m1-4n15o16p17q",
+    "name": "Extensão de Tríceps na Polia",
+    "type": "Tríceps",
+    "min_repetitions": 12,
+    "description": "Exercício para desenvolvimento do tríceps"
+  },
+  {
+    "id": "6f7g8h9i-10j1-k1l1-m1n1-5o16p17q18r",
+    "name": "Elevação Lateral",
+    "type": "Ombros",
+    "min_repetitions": 15,
+    "description": "Exercício para desenvolvimento do deltóide lateral"
+  },
+  {
+    "id": "7g8h9i10-j1k1-l1m1-n1o1-6p17q18r19s",
+    "name": "Abdominais",
+    "type": "Abdômen",
+    "min_repetitions": 20,
+    "description": "Exercício para fortalecimento do core"
+  },
+  {
+    "id": "8h9i10j1-k1l1-m1n1-o1p1-7q18r19s20t",
+    "name": "Remada Baixa",
+    "type": "Costas",
+    "min_repetitions": 12,
+    "description": "Exercício para desenvolvimento da parte inferior das costas"
+  },
+  {
+    "id": "9i10j1k1-l1m1-n1o1-p1q1-8r19s20t21u",
+    "name": "Leg Press 45°",
+    "type": "Pernas",
+    "min_repetitions": 12,
+    "description": "Exercício para desenvolvimento dos músculos das pernas"
+  },
+  {
+    "id": "10j1k1l1-m1n1-o1p1-q1r1-9s20t21u22v",
+    "name": "Desenvolvimento com Halter",
+    "type": "Ombros",
+    "min_repetitions": 10,
+    "description": "Exercício para desenvolvimento dos deltóides"
+  }
+]
