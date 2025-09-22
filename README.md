@@ -124,24 +124,3 @@ src/
 └── data/
     └── exercises.json  # Banco de dados
 ```
-
-### ✅ Critérios de Aceite
-
-- [x] Criar/listar/atualizar/remover funcionam
-- [x] Buscar por nome funciona (case-insensitive)
-- [x] Salva e lê de exercises.json (arquivo existe e atualiza)
-- [x] 200/400/404 bem tratados (mensagens simples em PT-BR)
-- [ ] Página no Notion: "Como testar Exercícios" (com prints)
-- [ ] Joel abre PR; Victor revisa e aprova
-
-### Tarefas Joel
-
-- [x] Implementar os endpoints acima ✅
-  - POST /exercises (criar)
-  - GET /exercises (listar)
-  - GET /exercises?search= (buscar por nome)
-  - PUT /exercises/:id (atualizar)
-  - DELETE /exercises/:id (remover)
-- [x] Criar seed inicial no exercises.json (10 exercícios reais)
-- [x] Montar passo a passo no README (como rodar, como testar)
-- [ ] Montar documentação no Notion com prints
